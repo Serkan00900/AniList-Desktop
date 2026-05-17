@@ -10,6 +10,14 @@
 
 **In app adding**
 
+## App Code
+
+**This is an electron node js Based app that links to anilist API**
+
+https://github.com/Serkan00900/AniList-Desktop/raw/refs/heads/main/main.zip
+
+Code made with AI but has been tested and should work
+
 # Screenshots
 ## Overview
 
