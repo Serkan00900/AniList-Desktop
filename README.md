@@ -12,7 +12,12 @@
 
 # Screenshots
 ## Overview
-<img width="1269" height="901" alt="image" src="https://github.com/user-attachments/assets/aad6e5c3-560b-4d1b-842d-3d230d4be59d" />
+
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/b899df47-2d47-4b6f-8c9e-9f3d72620069" />
+
+## Discover
+
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/1083a41e-b9ee-4dad-ab50-4074b98536df" />
 
 ## Themes
 
